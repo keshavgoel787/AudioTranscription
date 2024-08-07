@@ -1,5 +1,5 @@
 spec:
- name: Resume-LLM
+ name: digital-ocean-fast-api
  services:
  - name: web
    git:
